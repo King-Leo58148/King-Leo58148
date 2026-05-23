@@ -58,7 +58,7 @@ I care about clean architecture, sensible data modeling, and writing code that a
 ### Photo Vault
 A Django REST API for secure photo management. Users upload, organize into albums, and control privacy settings. Built with token authentication, Redis caching, and Cloudinary for cloud storage.
 
-`Django` `DRF` `MySQL` `Redis` `Cloudinary`
+`Django` `DRF` `MySQL` `PostgreSQL` `Redis` `Cloudinary` 
 
 ---
 
