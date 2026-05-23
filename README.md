@@ -73,7 +73,7 @@ A WebSocket-based group chat backend built with Django Channels. Supports named 
 
 <div align="center">
 
-![Louis's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=King-Leo58148&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=King-Leo58148&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=King-Leo58148&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
