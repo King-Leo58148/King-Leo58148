@@ -73,9 +73,8 @@ A WebSocket-based group chat backend built with Django Channels. Supports named 
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=King-Leo58148&theme=tokyonight&hide_border=true)
-![Profile Views](https://komarev.com/ghpvc/?username=King-Leo58148&color=0891b2&style=for-the-badge)
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=King-Leo58148&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Louis's Activity](https://github-readme-activity-graph.vercel.app/graph?username=King-Leo58148&theme=tokyo-night&hide_border=true)
 </div>
 
 ---
