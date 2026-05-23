@@ -15,7 +15,7 @@
 
 *Crafting clean APIs and real-time systems from Kumasi, Ghana 🇬🇭*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Louis%20Sanyenni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-sanyenni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Louis%20Sanyenni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-sanyenni-08b230348/)
 [![Email](https://img.shields.io/badge/Email-lsanyenni%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lsanyenni@gmail.com)
 
 </div>
