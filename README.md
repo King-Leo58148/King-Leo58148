@@ -1,6 +1,7 @@
+
 <div align="center">
 
-```
+```text
 ██╗      ██████╗ ██╗   ██╗██╗███████╗
 ██║     ██╔═══██╗██║   ██║██║██╔════╝
 ██║     ██║   ██║██║   ██║██║███████╗
@@ -17,7 +18,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Louis%20Sanyenni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-sanyenni-08b230348/)
 [![Email](https://img.shields.io/badge/Email-lsanyenni%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lsanyenni@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-louissanyenni.vercel.app/#full-00e676?style=for-the-badge&logo=vercel&logoColor=white)](https://louissanyenni.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-louissanyenni.vercel.app-00e676?style=for-the-badge&logo=vercel&logoColor=white)](https://louissanyenni.vercel.app)
 
 </div>
 
@@ -61,6 +62,7 @@ I care about clean architecture, sensible data modeling, and writing code that a
 ## Projects
 
 ### [Darklynk](https://darklynk.vercel.app) *(2026)*
+
 Solely built the backend for Darklynk — private, temporary chat rooms with no accounts and no saved history, enabling instant ephemeral conversations.
 
 `Django` `DRF` `Django Channels` `WebSockets` `Redis` `Python`
@@ -68,6 +70,7 @@ Solely built the backend for Darklynk — private, temporary chat rooms with no 
 ---
 
 ### [Codefest Project (ExploreGH)](https://github.com/King-Leo58148/Codefest_Project) *(2026)*
+
 Spring Boot & Java 21 backend for an investment pitching and deals platform. Features JWT authentication with refresh tokens, pitches, bidding, deal & repayment tracking, Paystack & MoMo payment integrations, Cloudinary uploads, and real-time notifications.
 
 `Java` `Spring Boot` `JPA` `JWT` `Paystack` `Cloudinary`
@@ -75,6 +78,7 @@ Spring Boot & Java 21 backend for an investment pitching and deals platform. Fea
 ---
 
 ### [Campus Market Place](https://github.com/King-Leo58148/Campus_Market_Place) *(2026)*
+
 A Django REST Framework powered classifieds platform for campus students. Features JWT auth, listings management, private messaging, favorites, and a moderation system.
 
 `Django` `DRF` `PostgreSQL` `JWT`
@@ -82,6 +86,7 @@ A Django REST Framework powered classifieds platform for campus students. Featur
 ---
 
 ### [Real-Time Chat API](https://github.com/King-Leo58148/chat_app) *(2026)*
+
 WebSocket-powered group chat with named rooms, live broadcasting, reactions, join/leave notifications, and persistent message history via Django Channels and Redis.
 
 `Django` `DRF` `Django Channels` `WebSockets` `Redis` `Python`
@@ -89,6 +94,7 @@ WebSocket-powered group chat with named rooms, live broadcasting, reactions, joi
 ---
 
 ### [Photo Vault](https://github.com/King-Leo58148/Photo_Vault) *(2025)*
+
 Secure photo management API with signed uploads, album organisation, Redis caching, and Cloudinary cloud storage. Token authentication with rate limiting.
 
 `Django` `DRF` `MySQL` `Cloudinary` `Redis` `Python`
@@ -96,6 +102,7 @@ Secure photo management API with signed uploads, album organisation, Redis cachi
 ---
 
 ### [Expense Manager](https://github.com/King-Leo58148/Expense_Manager) *(2025)*
+
 Track expenses, generate summary reports, and export CSVs. Clean API design with category filtering and date range queries.
 
 `Django` `DRF` `MySQL` `Redis`
@@ -107,6 +114,7 @@ Track expenses, generate summary reports, and export CSVs. Clean API design with
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=King-Leo58148&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 ![Louis's Activity](https://github-readme-activity-graph.vercel.app/graph?username=King-Leo58148&theme=tokyo-night&hide_border=true)
 
 </div>
